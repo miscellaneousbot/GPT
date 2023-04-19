@@ -1,8 +1,4 @@
-# GPT
-GPT
-Primary color: #3E70B2
-Secondary color: #3EB25F
-Neutral color: #FFFFFF
+
 <html>
 <GPT>
 	<title>GPT</title>
