@@ -47,7 +47,7 @@
 	</header>
 	<main>
 		<h2>Success Story</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in ligula velit. Donec malesuada euismod sodales. Nulla facilisi. Nam faucibus quam sit amet metus ultricies, in posuere justo dictum. Sed vel efficitur enim. Vestibulum consectetur ligula id ligula elementum euismod. Ut eget aliquet est. Sed quis dapibus urna, vel eleifend nibh.</p>
+		<p>@@@@</p>
 		<h2>Free Books</h2>
 		<ul>
 			<li>Pick up a free book from our collection</li>
