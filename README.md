@@ -5,7 +5,7 @@ Secondary color: #3EB25F
 Neutral color: #FFFFFF
 <html>
 <GPT>
-	<title>GPT Website</title>
+	<title>GPT</title>
 </head>
 <body>
 	<header>
