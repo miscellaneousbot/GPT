@@ -1,6 +1,4 @@
 
-<html>
-<GPT>
 	<title>GPT</title>
 </head>
 <body>
